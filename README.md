@@ -2,12 +2,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Kaio Fabio Nogueira Perpetuo
+Matricula: 927822
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![alt text](images/image.png)
 
 
 
